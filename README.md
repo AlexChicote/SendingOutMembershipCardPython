@@ -7,5 +7,5 @@ Summary of steps:
 
   1. Creating the dataframe. I obtained all data from a xml file from where I generated the list of members> I execute the       file at the beguinning.
   2. Once the members df is created, using a for loop I generated he membership and send it out through repportlab and MIME.
-  3. In order to use it with updates. I create a file where I store the ID sent so only the new ones are sent out next time I   use the script
+  3. In order to use it with updates. I create a file where I store the ID sent so only the new ones are sent out next time I   use the script: I use pickle for this goal.
 
